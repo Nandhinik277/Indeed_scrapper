@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV files
+*.csv
+
+# Chrome driver and other executables
+chromedriver.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
